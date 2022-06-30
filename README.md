@@ -1,2 +1,2 @@
 # Friends-API
-This is an api about friend
+This is an api about friends

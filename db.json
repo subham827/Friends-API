@@ -1,0 +1,22 @@
+{
+    "friends" :[
+        { 
+            "id" : 1,
+            "name" : "Saksham",
+            "age" : "20",
+            "city" : "New Delhi"
+        },
+        {
+            "id" : 2,
+            "name" : "Prashant",
+            "age" : "22",
+            "city" : "Kanpur"
+        },
+        {   "id" : 3,
+            "name" : "Vishal",
+            "age" : "20",
+            "city" : "Ghirdhi"
+        }
+    
+    ]
+}
